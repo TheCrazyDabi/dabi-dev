@@ -10,7 +10,7 @@
 
 <div align="center">
   <p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF" width="128" height="128"/>
+<img src="https://media1.tenor.com/m/0eMdDnTWmcwAAAAd/dabi-dance-dabi.gif" width="128" height="128"/>
 </p>
 
 <p align="center">
