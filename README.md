@@ -28,7 +28,7 @@ Profile powered by <a href="https://github.com/your-username">Dabi</a> + Eliz ðŸ
 </p>
 
 <p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username&title=Profile%20Views" alt="views count"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://https://github.com/TheCrazyDabi&title=Profile%20Views" alt="views count"/>
 </p>
 
 ----
