@@ -1,9 +1,8 @@
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://https://github.com/TheCrazyDabi">
+    <a href="https://github.com/your-username">
         <img
-        src="<img width="498" height="280" alt="image" src="[https://github.com/user-attachments/assets/c9271c1c-87d2-488f-84c4-a8b53ae93b62](https://media1.tenor.com/m/0eMdDnTWmcwAAAAd/dabi-dance-dabi.gif)" />
-"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Eliz's+Assistant+Dabi+Profile.;Coding+is+My+Second+Language.;Learning+AI,+Robotics+and+Hacking+with+Eliz!"
             alt="Typing SVG"
         />
     </a>
@@ -26,6 +25,10 @@
 <p align="center">
 Profile powered by <a href="https://github.com/your-username">Dabi</a> + Eliz 🤖💙<br>
 | © | All Rights Reserved |
+</p>
+
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username&title=Profile%20Views" alt="views count"/>
 </p>
 
 ----
