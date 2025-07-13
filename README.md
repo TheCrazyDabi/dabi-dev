@@ -2,7 +2,8 @@
 <p align="center">
     <a href="https://github.com/your-username">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Eliz's+Assistant+Dabi+Profile.;Coding+is+My+Second+Language.;Learning+AI,+Robotics+and+Hacking+with+Eliz!"
+        src="<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/c9271c1c-87d2-488f-84c4-a8b53ae93b62" />
+"
             alt="Typing SVG"
         />
     </a>
